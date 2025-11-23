@@ -25,12 +25,12 @@ Brisbane, Australia\
 Python, R, SQL, Julia, DAX, Latex
 
 **Analytics & ML**  
-Predictive Modelling  
-Clustering  
-Bayesian Stats  
-Deep Learning  
+- Predictive Modelling  
+- Clustering  
+- Bayesian Stats  
+- Deep Learning  
 
-**Tools**
+**Tools**\
 Python (NumPy, Pandas, SciPy, Scikit-Learn, PyTorch, TensorFlow).\
 Jupyter, RStudio, PyCharm,
 Quarto, Markdown,
@@ -82,6 +82,7 @@ GPA: 4.30/5.00\
 ### **Differential Calculus tutor**
 *Universidad Nacional de Colombia*\
 *Feb 2017 – Jun 2018*\
+
 - Provided one-on-one and group tutoring in limits, derivatives, optimisation, related rates, Taylor approximations, and multivariable calculus, improving students’ conceptual understanding and problem-solving skills.\
 - Delivered tutorials and exam preparation sessions.\
 - Helped students develop mathematical reasoning techniques, such as function analysis, algebraic manipulation, graphical interpretation, and real-world application of calculus concepts.\
@@ -89,7 +90,7 @@ GPA: 4.30/5.00\
 ## HONORS & AWARDS
 
 - Dean's Commendation for Academic Excellence - The University of Queensland - Semester 1, 2025.\
-- Colfuturo Scholarship for Academic Excellence at The University of Queensland - 2024.\
+- Colfuturo Scholarship for Academic Excellence to study abroad (Colombian Government) - 2024.\
 - Ranked 2nd over 57 in B.Sc. Industrial Engineering cohort.\
 - Academic merit scholarship during B.Sc. Industrial Engineering - Semester 1, 2017.\
 - Academic merit scholarship during B.Sc. Industrial Engineering - Semester 2, 2017.\
