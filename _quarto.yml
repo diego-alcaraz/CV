@@ -1,0 +1,14 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  page-navigation: false
+
+format:
+  html:
+    theme: null
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    page-layout: full
