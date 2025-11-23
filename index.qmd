@@ -14,13 +14,10 @@ page-layout: full
 
 **Diego Alejandro Zapata Alcaraz**  
 Brisbane, Australia  
-**Email:** diego080495\@gmail.com\
-**Phone:** 0426 433 170\
-**Location:** Brisbane, Australia\
-**GitHub:** <https://github.com/diego-alcaraz>\
+**Email:** diego080495\@gmail.com
+**Phone:** 0426 433 170
+**GitHub:** <https://github.com/diego-alcaraz>
 **LinkedIn:** <https://linkedin.com/in/diego-alcaraz->
-
-
 
 
 ### TECHNICAL SKILLS
@@ -46,9 +43,10 @@ Agile, Lean, Six Sigma
 
 ### CERTIFICATIONS
 
-• Deep Learning (Coursera)[https://coursera.org/share/4425a51d5bb084480d9a6ec2ac51c9f3]
-• Statistics with Python (Coursera)  
-• General English – Greenwich College  
+• [Deep Learning (Coursera)](https://coursera.org/share/4425a51d5bb084480d9a6ec2ac51c9f3)
+• [Statistics with Python (Coursera)](https://coursera.org/share/8134291d4835d50c0b757a5e572bffba)
+• [Additional certifications available on Coursera profile](https://www.coursera.org/learner/diego-zapata-alcaraz)
+• [Australina Computer Society (ACS) accredited Data Science Professional](src/ACS_DataScientist.pdf)
 
 
 ### INTERESTS
@@ -86,13 +84,13 @@ GPA: 4.30/5
 
 ## ACADEMIC EXPERIENCE
 
-### **Differential Calculus Monitor — UNAL**  
+### **Differential Calculus tutor — UNAL**  
 *Feb 2017 – Jun 2018*  
 - Supported students with applied calculus problem-solving.  
 - Delivered tutorials and exam preparation sessions.
 
 ## HONORS & AWARDS
-- 
+- Dean's Commendation for Academic Excellence - The University of Queensland - Semester 1, 2025.
 - Colfuturo Scholarship for Master of Science in Data Science at The University of Queensland - 2024.
 - Ranked 2nd over 57 in Bachelor of Science program Industrial Engineering cohort. 
 - Academic merit scholarship during Bachelor of Science program Industrial Engineering - Semester 1, 2017.
