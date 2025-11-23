@@ -46,7 +46,7 @@ Agile, Lean, Six Sigma
 
 ### CERTIFICATIONS
 
-• Deep Learning (Coursera)  
+• Deep Learning (Coursera)[https://coursera.org/share/4425a51d5bb084480d9a6ec2ac51c9f3]
 • Statistics with Python (Coursera)  
 • General English – Greenwich College  
 
@@ -70,7 +70,7 @@ Applied Machine Learning; Statistical Modelling; Clustering & Unsupervised Learn
 
 **M.Sc. Data Science**  
 *The University of Queensland*  
-2025 – 2026
+2025 – 2026*
 
 **Diploma in Analytics**  
 *Universidad Nacional de Colombia*  
@@ -91,58 +91,52 @@ GPA: 4.30/5
 - Supported students with applied calculus problem-solving.  
 - Delivered tutorials and exam preparation sessions.
 
----
-
 ## HONORS & AWARDS
 - 
 - Colfuturo Scholarship for Master of Science in Data Science at The University of Queensland - 2024.
 - Ranked 2nd over 57 in Bachelor of Science program Industrial Engineering cohort. 
 - Academic merit scholarship during Bachelor of Science program Industrial Engineering - Semester 1, 2017.
 - Academic merit scholarship during Bachelor of Science program Industrial Engineering - Semester 2, 2017.
-- 2nd place – Interacpedia Business Challenge (Reduction of organic waste throughout the paper manufacturing process)
+- 2nd place – Interacpedia Business Challenge: Reduction of organic waste throughout the paper manufacturing process.
 
 ---
 
 ## PROFESSIONAL EXPERIENCE
 
 ### **Data Analyst — Conversion Kings**  
-*Jan 2025 – Present*  
-- Conduct GA4 audits; validate tracking setups.  
-- Produce Baseline & User Journey Reports.  
-- Support A/B testing (MDI, validation, dashboards).  
-- Generate CRO funnel reports with trend analysis.
+*Jan 2025 – Present*
+- Conduct GA4 audits, identifying tracking gaps and measurement inconsistencies.
+- Deliver Baseline & User Journey Reports, analysing multi-device funnels and behavioural patterns.
+- Support A/B testing operations: MDI calculations, report validation, insights dashboards.
+- Produce Monthly & Quarterly CRO funnel reports using statistical anomaly detection.
 
-**Achievements**  
-- Automated A/B report updates → **1 hour → 10 minutes**  
-- Employee of the Month (Oct)
+**Achievements:**
+- Automated A/B test report workflows, reducing processing time from 1 hour to 10 minutes per test.
+- Awarded Employee of the Month (Oct) for performance excellence.
+
 
 ### **Senior Data Scientist — Bancolombia Bank**  
-*Jun 2021 – Sep 2023*  
-- Built predictive & forecasting models.  
-- Analysed high-volume financial datasets.  
-- Designed Power BI dashboards; supported strategic decisions.  
-- Developed risk and customer models.
+*Jun 2021 – Sep 2023*
+- Designed forecasting and ML models (including deep learning) for customer behaviour and financial risk.
+- Extracted, transformed, and analysed high-volume datasets for strategic insights.
+- Built dashboards and reporting systems to support real-time decision making.
+- Interacted with business stakeholders to define analytical needs.
 
-**Achievements**  
-- Reduced service waiting time **25%**.  
-- Probability-of-default model reduced loss rates **4%**.  
-- Customer clustering enabled personalised offers.
+**Achievements:**
+- Reduced service waiting time by 25% by optimising commercial resource allocation.
+- Developed a probability‐of-default model, lowering portfolio loss rates by 4%.
+- Created a customer‐level classification model enabling personalised offers.
 
 ### **Assortment Data Analyst — Grupo Éxito**  
-*Mar 2019 – May 2021*  
-- Analysed product trends; created insights dashboards.  
-- Managed assortment for **80 stores**.  
-- Designed planograms; optimised stock distribution.
+*Mar 2019 – May 2021*
+- Analysed product consumption patterns and developed insights dashboards.
+- Managed product assortment across **80 retail stores**, improving stock allocation.
+- Created planograms to support commercial and operational strategies.
+- Applied statistical modelling to identify trends, substitutability, and assortment optimization.
 
-**Achievements**  
-- Bayesian substitutability model → **15% reduction** in excess stock.  
-- Automated assortment optimisation.
-
-### **Manufacturing Intern — Organización Corona**  
-*Jul 2018 – Jan 2019*  
-- Applied Lean/Six Sigma; improved processes.  
-- Built KPI trackers and supported TPM pillars.  
-- Updated BOMs and processes for **80%** of product references.
+**Achievements:**
+- Built a Bayesian model reducing excess stock by 15%.
+- Fully automated the assortment optimization process.
 
 ---
 
