@@ -13,7 +13,7 @@ page-layout: full
 
 **Diego Alejandro Zapata Alcaraz**  
 Brisbane, Australia\
-**Email:** diego080495\@gmail.com\
+**Email:** d.zapataalcaraz\@student.uq.edu.au\
 **Phone:** 0426 433 170\
 **GitHub:** <https://github.com/diego-alcaraz>\
 **LinkedIn:** <https://linkedin.com/in/diego-alcaraz->\
@@ -30,28 +30,18 @@ Clustering
 Bayesian Stats  
 Deep Learning  
 
-**Tools**  
+**Tools**
+Python (NumPy, Pandas, SciPy, Scikit-Learn, PyTorch, TensorFlow).\
 Jupyter, RStudio, PyCharm,
+Quarto, Markdown,
 GA4, BigQuery, 
-Power BI, Tableau
-MS suite, Git, GitHub
+Power BI, Tableau,
+MS Office Suite, 
+Git, GitHub
 
-**Methods**  
-Agile, Lean, Six Sigma
+**Methodologies**  
+Agile, SCRUM, Six Sigma
 
-
-### CERTIFICATIONS
-
-• [Deep Learning (Coursera)](https://coursera.org/share/4425a51d5bb084480d9a6ec2ac51c9f3)\
-• [Statistics with Python (Coursera)](https://coursera.org/share/8134291d4835d50c0b757a5e572bffba)\
-• [Additional certifications available on Coursera profile](https://www.coursera.org/learner/diego-zapata-alcaraz)\
-• [Australina Computer Society (ACS) accredited Data Science Professional](src/ACS_DataScientist.pdf)\
-
-
-### INTERESTS
-
-Craft beer brewing  • Cooking • Hiking  
-Camping • Fitness  
 
 
 </div>
@@ -61,7 +51,7 @@ Camping • Fitness
 
 ## RESEARCH INTERESTS
 
-Applied Machine Learning; Statistical Modelling; Clustering & Unsupervised Learning; Optimization for Data‐Driven Decision Making; Predictive Analytics; Consumer Behaviour Modelling; Bayesian Statistics.
+My research interests span applied machine learning, statistical modelling, unsupervised learning and clustering, optimisation for data-driven decision making, predictive analytics, and Bayesian statistical methods.
 
 ## EDUCATION
 
@@ -79,6 +69,13 @@ GPA: 4.90/5.00\
 *Universidad Nacional de Colombia*\
 GPA: 4.30/5.00\
 2013 - 2019\
+
+### CERTIFICATIONS
+
+• [Deep Learning (Coursera)](https://coursera.org/share/4425a51d5bb084480d9a6ec2ac51c9f3)\
+• [Statistics with Python (Coursera)](https://coursera.org/share/8134291d4835d50c0b757a5e572bffba)\
+• [Additional certifications available on Coursera profile](https://www.coursera.org/learner/diego-zapata-alcaraz)\
+• [Australina Computer Society (ACS) accredited Data Science Professional](src/ACS_DataScientist.pdf)\
 
 ## ACADEMIC EXPERIENCE
 
