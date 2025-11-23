@@ -1,5 +1,6 @@
 ---
-title: "Diego Alejandro Zapata Alcaraz — Academic CV"
+title: "Curriculum Vitae"
+author: "Diego Alejandro Zapata Alcaraz"
 format: html
 page-layout: full
 ---
@@ -13,33 +14,19 @@ page-layout: full
 
 **Diego Alejandro Zapata Alcaraz**  
 Brisbane, Australia  
-📞 0426 433 170  
-✉️ diego080495@gmail.com  
-🔗 GitHub: <https://github.com/diego-alcaraz>  
-🔗 LinkedIn: <https://linkedin.com/in/diego-alcaraz->  
+**Email:** diego080495\@gmail.com\
+**Phone:** 0426 433 170\
+**Location:** Brisbane, Australia\
+**GitHub:** <https://github.com/diego-alcaraz>\
+**LinkedIn:** <https://linkedin.com/in/diego-alcaraz->
 
 
-### EDUCATION
-
-**M.Sc. Data Science**  
-*The University of Queensland*  
-2024–2026 (expected)
-
-**Diploma in Analytics**  
-*Universidad Nacional de Colombia*  
-2020
-
-**B.Sc. Industrial Engineering**  
-*Universidad Nacional de Colombia*  
-2019  
-• Ranked **2nd/57**  
-• Academic merit tuition exemption  
 
 
 ### TECHNICAL SKILLS
 
-**Programming**  
-Python, R, SQL, MATLAB, DAX  
+**Coding**  
+Python, R, SQL, Julia, DAX, Latex 
 
 **Analytics & ML**  
 Predictive Modelling  
@@ -48,9 +35,10 @@ Bayesian Stats
 Deep Learning  
 
 **Tools**  
-Power BI, Excel  
-GA4, BigQuery  
-Git, GitHub  
+Jupyter, RStudio, PyCharm,
+GA4, BigQuery, 
+Power BI, Tableau
+MS suite, Git, GitHub
 
 **Methods**  
 Agile, Lean, Six Sigma
@@ -58,7 +46,6 @@ Agile, Lean, Six Sigma
 
 ### CERTIFICATIONS
 
-• PTE – B1  
 • Deep Learning (Coursera)  
 • Statistics with Python (Coursera)  
 • General English – Greenwich College  
@@ -66,7 +53,7 @@ Agile, Lean, Six Sigma
 
 ### INTERESTS
 
-Craft beer • Cooking • Hiking  
+Craft beer brewing  • Cooking • Hiking  
 Camping • Fitness  
 
 
@@ -77,8 +64,44 @@ Camping • Fitness
 
 ## RESEARCH INTERESTS
 
-Applied Machine Learning; Statistical Learning; Optimization; Clustering; Predictive Analytics; Behaviour Modelling; Bayesian Methods.
+Applied Machine Learning; Statistical Modelling; Clustering & Unsupervised Learning; Optimization for Data‐Driven Decision Making; Predictive Analytics; Consumer Behaviour Modelling; Bayesian Statistics.
 
+## EDUCATION
+
+**M.Sc. Data Science**  
+*The University of Queensland*  
+2025 – 2026
+
+**Diploma in Analytics**  
+*Universidad Nacional de Colombia*  
+GPA: 4.90/5
+2019 - 2020
+
+**B.Sc. Industrial Engineering**  
+*Universidad Nacional de Colombia*
+GPA: 4.30/5
+2013 - 2019
+
+---
+
+## ACADEMIC EXPERIENCE
+
+### **Differential Calculus Monitor — UNAL**  
+*Feb 2017 – Jun 2018*  
+- Supported students with applied calculus problem-solving.  
+- Delivered tutorials and exam preparation sessions.
+
+---
+
+## HONORS & AWARDS
+- 
+- Colfuturo Scholarship for Master of Science in Data Science at The University of Queensland - 2024.
+- Ranked 2nd over 57 in Bachelor of Science program Industrial Engineering cohort. 
+- Academic merit scholarship during Bachelor of Science program Industrial Engineering - Semester 1, 2017.
+- Academic merit scholarship during Bachelor of Science program Industrial Engineering - Semester 2, 2017.
+- 2nd place – Interacpedia Business Challenge (Reduction of organic waste throughout the paper manufacturing process)
+
+---
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -93,8 +116,6 @@ Applied Machine Learning; Statistical Learning; Optimization; Clustering; Predic
 - Automated A/B report updates → **1 hour → 10 minutes**  
 - Employee of the Month (Oct)
 
----
-
 ### **Senior Data Scientist — Bancolombia Bank**  
 *Jun 2021 – Sep 2023*  
 - Built predictive & forecasting models.  
@@ -107,8 +128,6 @@ Applied Machine Learning; Statistical Learning; Optimization; Clustering; Predic
 - Probability-of-default model reduced loss rates **4%**.  
 - Customer clustering enabled personalised offers.
 
----
-
 ### **Assortment Data Analyst — Grupo Éxito**  
 *Mar 2019 – May 2021*  
 - Analysed product trends; created insights dashboards.  
@@ -119,8 +138,6 @@ Applied Machine Learning; Statistical Learning; Optimization; Clustering; Predic
 - Bayesian substitutability model → **15% reduction** in excess stock.  
 - Automated assortment optimisation.
 
----
-
 ### **Manufacturing Intern — Organización Corona**  
 *Jul 2018 – Jan 2019*  
 - Applied Lean/Six Sigma; improved processes.  
@@ -129,22 +146,6 @@ Applied Machine Learning; Statistical Learning; Optimization; Clustering; Predic
 
 ---
 
-## ACADEMIC EXPERIENCE
-
-### **Differential Calculus Monitor — UNAL**  
-*Feb 2017 – Jun 2018*  
-- Supported students with applied calculus problem-solving.  
-- Delivered tutorials and exam preparation sessions.
-
----
-
-## HONORS & AWARDS
-
-- Ranked 2nd / 57 (Industrial Engineering cohort)  
-- Academic merit scholarship (Top 5 GPA)  
-- 2nd place – Interacpedia Business Challenge
-
----
 
 ## REFERENCES
 
