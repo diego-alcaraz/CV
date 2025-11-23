@@ -1,168 +1,155 @@
 ---
 title: "Diego Alejandro Zapata Alcaraz — Academic CV"
-author: "Diego Alejandro Zapata Alcaraz"
-format:
-  html:
-    theme: cosmo
-    toc: false
-    standalone: true
-    smooth-scroll: true
-    css: styles.css
-  pdf:
-    documentclass: article
-    classoption: "11pt"
-    geometry: margin=1in
+format: html
+page-layout: full
 ---
 
-# **DIEGO ALEJANDRO ZAPATA ALCARAZ**
+<div class="cv-container">
 
-**Email:** diego080495\@gmail.com\
-**Phone:** 0426 433 170\
-**Location:** Brisbane, Australia\
-**GitHub:** <https://github.com/diego-alcaraz>\
-**LinkedIn:** <https://linkedin.com/in/diego-alcaraz->
+<!-- LEFT COLUMN -->
+<div class="left-column">
 
-------------------------------------------------------------------------
+### CONTACT
 
-# **RESEARCH INTERESTS**
+**Diego Alejandro Zapata Alcaraz**  
+Brisbane, Australia  
+📞 0426 433 170  
+✉️ diego080495@gmail.com  
+🔗 GitHub: <https://github.com/diego-alcaraz>  
+🔗 LinkedIn: <https://linkedin.com/in/diego-alcaraz->  
 
-Applied Machine Learning; Statistical Modelling; Clustering & Unsupervised Learning; Optimization for Data‐Driven Decision Making; Predictive Analytics; Consumer Behaviour Modelling; Bayesian Statistics.
 
-------------------------------------------------------------------------
+### EDUCATION
 
-# **EDUCATION**
+**M.Sc. Data Science**  
+*The University of Queensland*  
+2024–2026 (expected)
 
-## **Master of Science in Data Science**
-
-**The University of Queensland**, Brisbane, Australia\
-*Expected 2026*
-
-## **Diploma of Science in Analytics**
-
-**Universidad Nacional de Colombia**\
+**Diploma in Analytics**  
+*Universidad Nacional de Colombia*  
 2020
 
-## **Bachelor of Science in Industrial Engineering**
+**B.Sc. Industrial Engineering**  
+*Universidad Nacional de Colombia*  
+2019  
+• Ranked **2nd/57**  
+• Academic merit tuition exemption  
 
-**Universidad Nacional de Colombia**\
-2019\
-- Ranked **2nd out of 57** based on GPA\
-- Awarded **academic merit tuition exemption** (Top 5 students)
 
-------------------------------------------------------------------------
+### TECHNICAL SKILLS
 
-# **RESEARCH & ACADEMIC EXPERIENCE**
+**Programming**  
+Python, R, SQL, MATLAB, DAX  
 
-## **Monitor – Differential Calculus**
+**Analytics & ML**  
+Predictive Modelling  
+Clustering  
+Bayesian Stats  
+Deep Learning  
 
-**Universidad Nacional de Colombia**\
-*Feb 2017 – Jun 2018*\
-- Assisted undergraduate students in understanding foundational calculus concepts.\
-- Delivered problem‐solving sessions and supported exam preparation.\
-- Reinforced analytical thinking and mathematical reasoning in applied contexts.
+**Tools**  
+Power BI, Excel  
+GA4, BigQuery  
+Git, GitHub  
 
-------------------------------------------------------------------------
+**Methods**  
+Agile, Lean, Six Sigma
 
-# **PROFESSIONAL EXPERIENCE**
 
-## **Data Analyst**
+### CERTIFICATIONS
 
-**Conversion Kings**, Australia\
-*Jan 2025 – Present*\
-- Conduct GA4 audits, identifying tracking gaps and measurement inconsistencies.\
-- Deliver Baseline & User Journey Reports, analysing multi-device funnels and behavioural patterns.\
-- Support A/B testing operations: MDI calculations, report validation, insights dashboards.\
-- Produce Monthly & Quarterly CRO funnel reports using statistical anomaly detection.
+• PTE – B1  
+• Deep Learning (Coursera)  
+• Statistics with Python (Coursera)  
+• General English – Greenwich College  
 
-**Achievements:**\
-- Automated A/B test report workflows, reducing processing time **from 1 hour to 10 minutes per test**.\
-- Awarded **Employee of the Month (Oct)** for performance excellence.
 
-------------------------------------------------------------------------
+### INTERESTS
 
-## **Senior Data Scientist**
+Craft beer • Cooking • Hiking  
+Camping • Fitness  
 
-**Bancolombia Bank**\
-*Jun 2021 – Sep 2023*\
-- Designed forecasting and ML models (including deep learning) for customer behaviour and financial risk.\
-- Extracted, transformed, and analysed high-volume datasets for strategic insights.\
-- Built dashboards and reporting systems to support real-time decision making.\
-- Interacted with business stakeholders to define analytical needs.
 
-**Achievements:**\
-- Reduced service waiting time by **25%** by optimising commercial resource allocation.\
-- Developed a probability‐of-default model, lowering portfolio loss rates by **4%**.\
-- Created a customer‐level classification model enabling personalised offers.
+</div>
 
-------------------------------------------------------------------------
+<!-- RIGHT COLUMN -->
+<div class="right-column">
 
-## **Assortment Data Analyst**
+## RESEARCH INTERESTS
 
-**Grupo Éxito Retail**\
-*Mar 2019 – May 2021*\
-- Analysed product consumption patterns and developed insights dashboards.\
-- Managed product assortment across **80 retail stores**, improving stock allocation.\
-- Created planograms to support commercial and operational strategies.\
-- Applied statistical modelling to identify trends, substitutability, and assortment optimization.
+Applied Machine Learning; Statistical Learning; Optimization; Clustering; Predictive Analytics; Behaviour Modelling; Bayesian Methods.
 
-**Achievements:**\
-- Built a Bayesian model reducing excess stock by **15%**.\
-- Fully automated the assortment optimization process.
 
-------------------------------------------------------------------------
+## PROFESSIONAL EXPERIENCE
 
-## **Manufacturing Intern**
+### **Data Analyst — Conversion Kings**  
+*Jan 2025 – Present*  
+- Conduct GA4 audits; validate tracking setups.  
+- Produce Baseline & User Journey Reports.  
+- Support A/B testing (MDI, validation, dashboards).  
+- Generate CRO funnel reports with trend analysis.
 
-**Organización Corona**\
-*Jul 2018 – Jan 2019*\
-- Applied Lean Six Sigma and SCRUM methodologies for process improvement.\
-- Maintained TPM pillars and improved operational workflows.\
-- Built KPI trackers and supported continuous improvement initiatives.
+**Achievements**  
+- Automated A/B report updates → **1 hour → 10 minutes**  
+- Employee of the Month (Oct)
 
-**Achievements:**\
-- Updated the bill of materials and process flows for **80%** of product references.
+---
 
-------------------------------------------------------------------------
+### **Senior Data Scientist — Bancolombia Bank**  
+*Jun 2021 – Sep 2023*  
+- Built predictive & forecasting models.  
+- Analysed high-volume financial datasets.  
+- Designed Power BI dashboards; supported strategic decisions.  
+- Developed risk and customer models.
 
-# **TEACHING EXPERIENCE**
+**Achievements**  
+- Reduced service waiting time **25%**.  
+- Probability-of-default model reduced loss rates **4%**.  
+- Customer clustering enabled personalised offers.
 
--   Teaching support and problem-solving sessions in Differential Calculus (UNAL).\
--   Experience coaching teams and stakeholders in analytics interpretation.
+---
 
-------------------------------------------------------------------------
+### **Assortment Data Analyst — Grupo Éxito**  
+*Mar 2019 – May 2021*  
+- Analysed product trends; created insights dashboards.  
+- Managed assortment for **80 stores**.  
+- Designed planograms; optimised stock distribution.
 
-# **TECHNICAL SKILLS**
+**Achievements**  
+- Bayesian substitutability model → **15% reduction** in excess stock.  
+- Automated assortment optimisation.
 
-**Programming:** Python, R, SQL, MATLAB, DAX\
-**ML & Stats:** Predictive modelling, clustering, Bayesian inference, deep learning\
-**Tools:** Power BI, Excel, Git, GA4, BigQuery\
-**Methods:** Agile, Lean, Six Sigma
+---
 
-------------------------------------------------------------------------
+### **Manufacturing Intern — Organización Corona**  
+*Jul 2018 – Jan 2019*  
+- Applied Lean/Six Sigma; improved processes.  
+- Built KPI trackers and supported TPM pillars.  
+- Updated BOMs and processes for **80%** of product references.
 
-# **CERTIFICATIONS & COURSES**
+---
 
--   Cambridge PTE – B1 (2024)\
--   General English – Greenwich College (2023)\
--   Deep Learning – Coursera (2021)\
--   Statistics with Python – Coursera (2020)
+## ACADEMIC EXPERIENCE
 
-------------------------------------------------------------------------
+### **Differential Calculus Monitor — UNAL**  
+*Feb 2017 – Jun 2018*  
+- Supported students with applied calculus problem-solving.  
+- Delivered tutorials and exam preparation sessions.
 
-# **HONORS & AWARDS**
+---
 
--   Ranked **2nd** in Bachelor of Science program (UNAL).\
--   Academic Merit Tuition Exemption (Top 5 GPA).\
--   **2nd place** – Interacpedia Business Challenge (Waste minimisation project).
+## HONORS & AWARDS
 
-------------------------------------------------------------------------
+- Ranked 2nd / 57 (Industrial Engineering cohort)  
+- Academic merit scholarship (Top 5 GPA)  
+- 2nd place – Interacpedia Business Challenge
 
-# **REFERENCES**
+---
+
+## REFERENCES
 
 Available upon request.
 
-------------------------------------------------------------------------
+</div>
 
-# **INTERESTS**
-
-Craft beer brewing • Data science research • Fitness • Camping • Cooking • Hiking
+</div> <!-- end container -->
