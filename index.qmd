@@ -1,7 +1,12 @@
 ---
 title: "Curriculum Vitae - Diego Alcaraz"
-format: html
-page-layout: full
+format: 
+  html:
+    page-layout: full
+  pdf:
+    documentclass: article
+    classoption: "11pt"
+    geometry: margin=1in
 ---
 
 <div class="cv-container">
@@ -15,9 +20,8 @@ page-layout: full
 Brisbane, Australia\
 **Email:** d.zapataalcaraz\@student.uq.edu.au\
 **Phone:** 0426 433 170\
-**GitHub:** <https://github.com/diego-alcaraz>\
-**LinkedIn:** <https://linkedin.com/in/diego-alcaraz->\
-
+**GitHub:** [diego-alcaraz](https://github.com/diego-alcaraz)\
+**LinkedIn:** [diego-alcaraz-](https://linkedin.com/in/diego-alcaraz-) \
 
 ### TECHNICAL SKILLS
 
