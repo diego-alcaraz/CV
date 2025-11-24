@@ -144,9 +144,6 @@ GPA: 4.30/5.00\
 - Built a Bayesian model reducing excess stock by 15%.
 - Fully automated the assortment optimization process.
 
----
-
-
 ## REFERENCES
 
 Available upon request.
